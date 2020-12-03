@@ -1,12 +1,13 @@
 {
   "name": "theme-coducation",
-  "version": "0.0.1",
-  "displayName": "Coducation Theme Official",
-  "description": "The Coducation theme used in class",
+  "version": "0.0.2",
+  "displayName": "Coducation Theme",
+  "description": "The Coducation Theme used in class",
+  "icon": "images/logo.png",
   "publisher": "coducation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leveluptuts/level-up-vscode-theme"
+    "url": "https://github.com/timdpaep/coducation-theme"
   },
   "galleryBanner": {
     "color": "#524763",

@@ -6,7 +6,7 @@
     // activityBar
     "activityBar.background": "#191324",
     "activityBar.border": "#191324",
-    "activityBar.foreground": "#524763",
+    "activityBar.foreground": "#ffffff",
     "activityBarBadge.background": "#82d8d8",
     "activityBarBadge.foreground": "#191324",
     // badge
@@ -111,7 +111,7 @@
     "editorWarning.foreground": "#524763",
     "editorWhitespace.foreground": "#ffffff1a",
     "editorWidget.background": "#191324",
-    "editorWidget.border": "#191324",
+    "editorWidget.border": "#ffffff",
     "errorForeground": "#E54B4B",
     // extensionButton
     "extensionButton.prominentBackground": "#82d8d8",
@@ -187,14 +187,14 @@
     "sideBar.border": "#52476366",
     "sideBar.foreground": "#524763",
     "sideBarSectionHeader.background": "#191324",
-    "sideBarSectionHeader.foreground": "#aaaaaa",
+    "sideBarSectionHeader.foreground": "#ffffff",
     "sideBarTitle.foreground": "#aaaaaa",
     // statusBar
     "statusBar.background": "#191324",
     "statusBar.border": "#191324",
     "statusBar.debuggingBackground": "#191324",
     "statusBar.debuggingForeground": "#191324",
-    "statusBar.foreground": "#524763",
+    "statusBar.foreground": "#ffffff",
     "statusBar.noFolderBackground": "#191324",
     "statusBar.noFolderForeground": "#524763",
     "statusBarItem.activeBackground": "#82d8d8",
