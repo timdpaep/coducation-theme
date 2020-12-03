@@ -1,0 +1,42 @@
+{
+  "name": "theme-coducation",
+  "version": "0.0.1",
+  "displayName": "Coducation Theme Official",
+  "description": "The Coducation theme used in class",
+  "publisher": "coducation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leveluptuts/level-up-vscode-theme"
+  },
+  "galleryBanner": {
+    "color": "#524763",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes",
+    "coducation"
+  ],
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coducation",
+        "uiTheme": "vs-dark",
+        "path": "./theme/coducation.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "nodemon": "^1.12.0",
+    "vsce": "^1.30.0"
+  }
+}
